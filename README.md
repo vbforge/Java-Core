@@ -8,7 +8,7 @@
 |-------------------------------|---------------------|
 | [oop-fundamentals](./oop-fundamentals) | encapsulation, abstraction, inheritance and polymorphism        |
 | [module2](./module2)          | module2 description update |
-| [module3](./module3)          | module3 description |
+| [module3](./module3)          | module3 description update2 |
 | [module4](./module4)          | module4 description |
 
 ## 🚀 Getting Started

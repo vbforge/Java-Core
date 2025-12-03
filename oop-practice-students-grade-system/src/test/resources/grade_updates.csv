@@ -1,0 +1,6 @@
+name,studentId,initialGrade,newGrade,shouldSucceed
+Alice,STU001,8.0,9.5,true
+Bob,STU002,7.0,10.0,true
+Charlie,STU003,6.0,-0.1,false
+Diana,STU004,5.0,10.1,false
+Eve,STU005,9.0,0.0,true

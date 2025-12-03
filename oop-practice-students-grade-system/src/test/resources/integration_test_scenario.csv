@@ -1,0 +1,4 @@
+scenario,studentsData,expectedCount,expectedAverage,expectedExcellent
+Basic Group,Alice:20:9.5:STU001;Bob:19:8.2:STU002,2,8.85,1
+Excellent Group,Alice:20:9.5:STU001;Bob:19:9.2:STU002;Charlie:21:9.8:STU003,3,9.5,3
+Mixed Group,Alice:20:7.0:STU001;Bob:19:8.0:STU002;Charlie:21:9.5:STU003;Diana:18:6.5:STU004,4,7.75,1

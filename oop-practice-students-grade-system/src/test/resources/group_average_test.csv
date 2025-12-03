@@ -1,0 +1,5 @@
+studentData,expectedAverage
+Alice:20:8.0:STU001;Bob:19:6.0:STU002,7.0
+Charlie:21:10.0:STU003,10.0
+Diana:18:7.0:STU004;Eve:22:9.0:STU005;Frank:20:8.0:STU006,8.0
+EMPTY_GROUP, 0.0

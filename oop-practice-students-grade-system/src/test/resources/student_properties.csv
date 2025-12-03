@@ -1,0 +1,5 @@
+name,age,grade,studentId,isExcellent,isAdult
+Alice,20,9.5,STU001,true,true
+Bob,17,8.2,STU002,false,false
+Charlie,21,9.0,STU003,true,true
+Diana,16,8.9,STU004,false,false

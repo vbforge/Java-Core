@@ -16,36 +16,37 @@
 ## 📚 Modules
 
 
-| Module                                                                     | Description                                                                                        | #TAGS                     |
-|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------|
-| [oop-practice-students-grade-system](./oop-practice-students-grade-system) | Class creation (Constructors), getters/setters, arrays operations, validation                      | OOP                       |
-| basics-variables-and-types                                                 | Primitive types, type casting, literals, constants, variable scope                                 | BASICS                    |
-| basics-operators-and-expressions                                           | Arithmetic, logical, bitwise, ternary operators, operator precedence                               | BASICS                    |
-| control-flow-statements                                                    | if-else, switch-case (enhanced), loops (for, while, do-while), break/continue                      | CONTROL-FLOW              |
-| strings-and-text-processing                                                | String manipulation, StringBuilder/StringBuffer, String pool, text formatting, regular expressions | STRINGS                   |
-| arrays-and-collections-basics                                              | Array operations, ArrayList, LinkedList, HashSet, HashMap, iteration techniques                    | COLLECTIONS               |
-| oop-inheritance-and-polymorphism                                           | Inheritance, method overriding, super keyword, polymorphism, abstract classes                      | OOP                       |
-| oop-interfaces-and-abstraction                                             | Interface definition, multiple inheritance, default/static methods, abstract design                | OOP                       |
-| oop-encapsulation-patterns                                                 | Access modifiers, package structure, data hiding, immutability, record classes                     | OOP                       |
-| exception-handling                                                         | try-catch-finally, custom exceptions, checked vs unchecked, try-with-resources, exception chains   | EXCEPTIONS                |
-| generics-fundamentals                                                      | Generic classes, generic methods, bounded type parameters, wildcards (?, extends, super)           | GENERICS                  |
-| collections-framework-advanced                                             | Queue, Deque, TreeSet, TreeMap, PriorityQueue, custom comparators, Collections utility             | COLLECTIONS               |
-| enums-and-nested-classes                                                   | Enum with fields/methods, inner classes, static nested classes, anonymous classes                  | OOP, ADVANCED             |
-| functional-interfaces                                                      | Lambda expressions, method references, Predicate, Function, Consumer, Supplier                     | FUNCTIONAL                |
-| streams-api-basics                                                         | Stream creation, filter, map, sorted, collect, forEach, reduce                                     | STREAMS, FUNCTIONAL       |
-| streams-api-advanced                                                       | flatMap, groupingBy, partitioningBy, parallel streams, custom collectors                           | STREAMS, ADVANCED         |
-| optional-and-null-handling                                                 | Optional creation, isPresent/isEmpty, orElse/orElseGet/orElseThrow, map/flatMap                    | FUNCTIONAL                |
-| date-time-api                                                              | LocalDate, LocalTime, LocalDateTime, ZonedDateTime, Period, Duration, formatting/parsing           | DATE-TIME                 |
-| file-io-basics                                                             | File reading/writing, BufferedReader/Writer, try-with-resources, Path and Files API                | I/O                       |
-| file-io-nio                                                                | NIO2 Files/Paths, DirectoryStream, WatchService, file attributes, symbolic links                   | I/O, NIO                  |
-| serialization                                                              | Serializable, ObjectInputStream/ObjectOutputStream, transient, serialVersionUID                    | I/O, SERIALIZATION        |
-| annotations                                                                | Built-in annotations, custom annotations, retention policies                                       | ANNOTATIONS, ADVANCED     |
-| reflection-api                                                             | Class introspection, accessing fields/methods, dynamic invocation, annotation processing           | REFLECTION, ADVANCED      |
-| multithreading-basics                                                      | Thread creation, lifecycle, synchronization, volatile keyword                                      | CONCURRENCY               |
-| multithreading-advanced                                                    | ExecutorService, ThreadPool, Callable/Future, CountDownLatch, CyclicBarrier, Semaphore             | CONCURRENCY, ADVANCED     |
-| concurrent-collections                                                     | ConcurrentHashMap, CopyOnWriteArrayList, BlockingQueue, atomic classes                             | CONCURRENCY, COLLECTIONS  |
-| design-patterns                                                            | Singleton, Factory, Builder, Observer, Strategy, Decorator                                         | DESIGN-PATTERNS, ADVANCED |
-| best-practices-and-solid                                                   | SOLID principles, clean code, code smells, refactoring                                             | BEST-PRACTICES, ADVANCED  |
+| Module                                                                     | Description                                                                                                  | #TAGS                     |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------|
+| [oop-practice-students-grade-system](./oop-practice-students-grade-system) | Class creation (Constructors), getters/setters, arrays operations, validation                                | OOP                       |
+| [java-oop-mastery-guide](./java-oop-mastery-guide) | Demonstrating core Object-Oriented Programming (OOP) principles, design patterns, and best practices in Java | OOP                       |
+| basics-variables-and-types                                                 | Primitive types, type casting, literals, constants, variable scope                                           | BASICS                    |
+| basics-operators-and-expressions                                           | Arithmetic, logical, bitwise, ternary operators, operator precedence                                         | BASICS                    |
+| control-flow-statements                                                    | if-else, switch-case (enhanced), loops (for, while, do-while), break/continue                                | CONTROL-FLOW              |
+| strings-and-text-processing                                                | String manipulation, StringBuilder/StringBuffer, String pool, text formatting, regular expressions           | STRINGS                   |
+| arrays-and-collections-basics                                              | Array operations, ArrayList, LinkedList, HashSet, HashMap, iteration techniques                              | COLLECTIONS               |
+| oop-inheritance-and-polymorphism                                           | Inheritance, method overriding, super keyword, polymorphism, abstract classes                                | OOP                       |
+| oop-interfaces-and-abstraction                                             | Interface definition, multiple inheritance, default/static methods, abstract design                          | OOP                       |
+| oop-encapsulation-patterns                                                 | Access modifiers, package structure, data hiding, immutability, record classes                               | OOP                       |
+| exception-handling                                                         | try-catch-finally, custom exceptions, checked vs unchecked, try-with-resources, exception chains             | EXCEPTIONS                |
+| generics-fundamentals                                                      | Generic classes, generic methods, bounded type parameters, wildcards (?, extends, super)                     | GENERICS                  |
+| collections-framework-advanced                                             | Queue, Deque, TreeSet, TreeMap, PriorityQueue, custom comparators, Collections utility                       | COLLECTIONS               |
+| enums-and-nested-classes                                                   | Enum with fields/methods, inner classes, static nested classes, anonymous classes                            | OOP, ADVANCED             |
+| functional-interfaces                                                      | Lambda expressions, method references, Predicate, Function, Consumer, Supplier                               | FUNCTIONAL                |
+| streams-api-basics                                                         | Stream creation, filter, map, sorted, collect, forEach, reduce                                               | STREAMS, FUNCTIONAL       |
+| streams-api-advanced                                                       | flatMap, groupingBy, partitioningBy, parallel streams, custom collectors                                     | STREAMS, ADVANCED         |
+| optional-and-null-handling                                                 | Optional creation, isPresent/isEmpty, orElse/orElseGet/orElseThrow, map/flatMap                              | FUNCTIONAL                |
+| date-time-api                                                              | LocalDate, LocalTime, LocalDateTime, ZonedDateTime, Period, Duration, formatting/parsing                     | DATE-TIME                 |
+| file-io-basics                                                             | File reading/writing, BufferedReader/Writer, try-with-resources, Path and Files API                          | I/O                       |
+| file-io-nio                                                                | NIO2 Files/Paths, DirectoryStream, WatchService, file attributes, symbolic links                             | I/O, NIO                  |
+| serialization                                                              | Serializable, ObjectInputStream/ObjectOutputStream, transient, serialVersionUID                              | I/O, SERIALIZATION        |
+| annotations                                                                | Built-in annotations, custom annotations, retention policies                                                 | ANNOTATIONS, ADVANCED     |
+| reflection-api                                                             | Class introspection, accessing fields/methods, dynamic invocation, annotation processing                     | REFLECTION, ADVANCED      |
+| multithreading-basics                                                      | Thread creation, lifecycle, synchronization, volatile keyword                                                | CONCURRENCY               |
+| multithreading-advanced                                                    | ExecutorService, ThreadPool, Callable/Future, CountDownLatch, CyclicBarrier, Semaphore                       | CONCURRENCY, ADVANCED     |
+| concurrent-collections                                                     | ConcurrentHashMap, CopyOnWriteArrayList, BlockingQueue, atomic classes                                       | CONCURRENCY, COLLECTIONS  |
+| design-patterns                                                            | Singleton, Factory, Builder, Observer, Strategy, Decorator                                                   | DESIGN-PATTERNS, ADVANCED |
+| best-practices-and-solid                                                   | SOLID principles, clean code, code smells, refactoring                                                       | BEST-PRACTICES, ADVANCED  |
 
 
 ### 🚀 Getting Started

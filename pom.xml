@@ -11,6 +11,7 @@
 
     <modules>
         <module>oop-practice-students-grade-system</module>
+        <module>java-oop-mastery-guide</module>
     </modules>
 
     <properties>

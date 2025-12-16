@@ -1,0 +1,21 @@
+🔐 Access Modifiers
+public: Accessible everywhere.
+protected: Accessible in the same package and subclasses.
+default (package-private): Accessible in the same package.
+private: Accessible only within the same class.
+💡 String and Integer Pools
+String Pool: Interned strings stored to optimize memory.
+Integer Pool: Values from -128 to 127 are cached for reuse.
+♻️ Garbage Collector
+Automatically manages memory.
+Frees memory by destroying unreachable objects.
+🧩 ClassLoader
+Loads classes into memory.
+Types: Bootstrap, Extension, and Application class loaders.
+🔐 Java Security
+Java provides built-in mechanisms:
+Bytecode verification
+SecurityManager and policies
+Sandboxing (esp. for applets)
+Cryptography APIs
+🎨 Design Patterns

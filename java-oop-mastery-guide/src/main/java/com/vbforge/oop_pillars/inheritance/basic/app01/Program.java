@@ -1,0 +1,16 @@
+package com.vbforge.oop_pillars.inheritance.basic.app01;
+
+public class Program {
+    public static void main(String[] args) {
+        Car car = new Car();
+        car.setName("Wheels");
+        car.show();
+        ElectricCar electricCar = new ElectricCar();
+        electricCar.setName("Lightning");
+        electricCar.show();
+    }
+    //output:
+    /*Car name: Wheels
+    Car name: Lightning*/
+
+}

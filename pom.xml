@@ -34,6 +34,7 @@
         <commons-lang3.version>3.14.0</commons-lang3.version>
         <commons-io.version>2.15.1</commons-io.version>
         <guava.version>32.1.3-jre</guava.version>
+        <mysql.version>9.3.0</mysql.version>
     </properties>
 
     <!-- Dependency Management: Define versions here, children inherit without version tags -->
@@ -133,6 +134,14 @@
                 <artifactId>guava</artifactId>
                 <version>${guava.version}</version>
             </dependency>
+
+            <!-- MySQL Connector -->
+            <dependency>
+                <groupId>com.mysql</groupId>
+                <artifactId>mysql-connector-j</artifactId>
+                <version>${mysql.version}</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

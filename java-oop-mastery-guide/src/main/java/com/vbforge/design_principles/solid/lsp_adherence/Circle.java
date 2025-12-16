@@ -1,0 +1,14 @@
+package com.vbforge.design_principles.solid.lsp_adherence;
+
+public class Circle extends Shape {
+    private double radius;
+
+    public Circle(double radius) {
+        this.radius = radius;
+    }
+
+    @Override
+    public double area() {
+        return Math.PI * radius * radius;
+    }
+}

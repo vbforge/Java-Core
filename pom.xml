@@ -12,6 +12,7 @@
     <modules>
         <module>oop-practice-students-grade-system</module>
         <module>java-oop-mastery-guide</module>
+        <module>oop-practice-bank-account-system</module>
     </modules>
 
     <properties>

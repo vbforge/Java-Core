@@ -19,6 +19,7 @@
 | Module                                                                     | Description                                                                                                  | #TAGS                     |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------|
 | [oop-practice-students-grade-system](./oop-practice-students-grade-system) | Class creation (Constructors), getters/setters, arrays operations, validation                                | OOP                       |
+| [oop-practice-bank-account-system](./oop-practice-bank-account-system) | Class creation (Constructors), getters/setters, arrays operations, validation                                | OOP                       |
 | [java-oop-mastery-guide](./java-oop-mastery-guide) | Demonstrating core Object-Oriented Programming (OOP) principles, design patterns, and best practices in Java | OOP                       |
 | basics-variables-and-types                                                 | Primitive types, type casting, literals, constants, variable scope                                           | BASICS                    |
 | basics-operators-and-expressions                                           | Arithmetic, logical, bitwise, ternary operators, operator precedence                                         | BASICS                    |

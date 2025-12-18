@@ -18,8 +18,9 @@
 
 | Module                                                                     | Description                                                                                                  | #TAGS                     |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------|
-| [oop-practice-students-grade-system](./oop-practice-students-grade-system) | Class creation (Constructors), getters/setters, arrays operations, validation                                | OOP                       |
-| [oop-practice-bank-account-system](./oop-practice-bank-account-system) | Class creation (Constructors), getters/setters, arrays operations, validation                                | OOP                       |
+| [oop-practice-students-grade-system](./oop-practice-students-grade-system) | Beginner level, Class creation (Constructors), getters/setters, arrays operations, validation                | OOP                       |
+| [oop-practice-bank-account-system](./oop-practice-bank-account-system) | Middle level, Class creation (Constructors), getters/setters, arrays operations, validation                  | OOP                       |
+| [oop-practice-library-management-system](./oop-practice-library-management-system) | Advanced level, Class creation (Constructors), getters/setters, arrays operations, validation                | OOP                       |
 | [java-oop-mastery-guide](./java-oop-mastery-guide) | Demonstrating core Object-Oriented Programming (OOP) principles, design patterns, and best practices in Java | OOP                       |
 | basics-variables-and-types                                                 | Primitive types, type casting, literals, constants, variable scope                                           | BASICS                    |
 | basics-operators-and-expressions                                           | Arithmetic, logical, bitwise, ternary operators, operator precedence                                         | BASICS                    |
